@@ -5,3 +5,5 @@ Mar
 16th 写了cifar10的code，10次epoch刷到55%
 
 17th nothing
+
+18th imdb的数据用lstm跑了一下
