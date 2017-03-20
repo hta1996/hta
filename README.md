@@ -7,3 +7,7 @@ Mar
 17th nothing
 
 18th imdb的数据用lstm跑了一下
+
+19th 翻了keras和tf的文档
+
+20th nothing
