@@ -10,4 +10,6 @@ Mar
 
 19th 翻了keras和tf的文档
 
-20th~22nd nothing
+20th~23rd nothing
+
+24th 看了一下tensorboard的文档
