@@ -13,3 +13,5 @@ Mar
 20th~23rd nothing
 
 24th 看了一下tensorboard的文档
+
+25th 根据参考代码把tensorboard各种功能试了一下
