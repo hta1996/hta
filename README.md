@@ -18,4 +18,4 @@ Mar
 
 26th 看了Rabiner的第一章
 
-27~30th nothing
+27~31st nothing
