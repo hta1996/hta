@@ -25,6 +25,6 @@ Apr
 
 6th 看来tf的文档
 
-7th 翻了Char2Wav,Tacotron等几篇论文，看了DCASE2016的两篇传统方法没看懂。跑了cifar10
+7th 翻了deepvoice,Char2Wav,Tacotron等几篇论文，看了DCASE2016的两篇传统方法没看懂。跑了cifar10
 
 8~10th nothing
