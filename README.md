@@ -21,4 +21,10 @@ Mar
 27~31st nothing
 
 Apr
-1~4th nothing
+1~5th nothing
+
+6th 看来tf的文档
+
+7th 翻了Char2Wav,Tacotron等几篇论文，看了DCASE2016的两篇传统方法没看懂。跑了cifar10
+
+8~10th nothing
